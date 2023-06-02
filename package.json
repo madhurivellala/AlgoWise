@@ -1,7 +1,7 @@
 {
   "name": "front-end-made-easy",
   "version": "0.0.0",
-  "homepage": "https://github.com/madhurivellala/AlgoWise/dist",
+  "homepage": "https://github.com/madhurivellala/AlgoWise",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
