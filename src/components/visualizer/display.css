@@ -1,0 +1,15 @@
+.line {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.current-line {
+  background-color: yellow;
+}
+.code-line.highlighted {
+  background-color: yellow;
+}
+.console {
+  color: red;
+}
